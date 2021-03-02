@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#https://qiita.com/wnoguchi/items/f7358a227dfe2640cce3
+# https://qiita.com/wnoguchi/items/f7358a227dfe2640cce3
 
 git config --global user.name "Jung Taecheon"
 git config --global user.email "jongbaseball@gmail.com"
